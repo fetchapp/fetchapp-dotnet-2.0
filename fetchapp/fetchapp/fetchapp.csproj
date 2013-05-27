@@ -7,7 +7,7 @@
     <ProjectGuid>{CA4C934A-5A2F-4312-BEFC-51CD8B80FCA4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FetchApp</RootNamespace>
+    <RootNamespace>FetchAppAPI.API</RootNamespace>
     <AssemblyName>fetchapp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

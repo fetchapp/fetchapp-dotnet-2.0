@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FetchApp
+namespace FetchAppAPI.API
 {
     public enum Currency
     {

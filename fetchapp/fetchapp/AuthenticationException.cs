@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FetchApp
+namespace FetchAppAPI
 {
     class AuthenticationException : Exception
     {
