@@ -36,6 +36,13 @@ namespace FetchAppAPI
             return account;
         }
 
+        public List<Order> getOrders(OrderStatus status = OrderStatus.All, int itemsPerPage = -1, int pageNumber = -1)
+        {
+            List<Order> orders = new List<Order>();
+
+            return orders;
+        }
+
         private void verifyReadiness()
         {
             if (String.IsNullOrWhiteSpace(this.AuthenticationKey) || String.IsNullOrWhiteSpace(this.AuthenticationToken))

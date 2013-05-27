@@ -2,7 +2,7 @@
 
 namespace FetchAppAPI
 {
-    class AuthenticationException : Exception
+    public class AuthenticationException : Exception
     {
 
         public AuthenticationException(String message) : base(message)
