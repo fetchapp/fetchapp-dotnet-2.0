@@ -1,7 +1,7 @@
 # fetchapp-dotnet-2.0
 
 
-A complete refactor of the FetchApp dotnet library.
+A .NET library for version 2.0 of the FetchApp API.
 
 
 # Proposed Syntax
